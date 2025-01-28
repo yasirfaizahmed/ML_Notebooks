@@ -1,0 +1,8 @@
+path: /home/xd/Documents/machine_learning/ML_Notebooks/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: [plate]
+nc: 1 
