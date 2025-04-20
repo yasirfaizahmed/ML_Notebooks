@@ -1,4 +1,4 @@
-path: /home/xd/Documents/machine_learning/ML_Notebooks/dataset
+path: /home/xd/Documents/python_codes/ML_Notebooks/license-plate-object-detection-YOLOv8/dataset
 
 train: images/train
 val: images/val
