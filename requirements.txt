@@ -1,0 +1,10 @@
+datasets
+scikit-learn
+keras
+pandas
+tf_keras
+tensorflow
+transformers
+tf-keras
+tensorrt
+tensorflow[and-cuda]
