@@ -3,3 +3,4 @@ dataset
 runs
 *.pt
 __pycache__
+.torch
