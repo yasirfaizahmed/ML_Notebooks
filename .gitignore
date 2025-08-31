@@ -4,3 +4,4 @@ runs
 *.pt
 __pycache__
 .torch
+pytorch_DLNN/data
