@@ -5,3 +5,4 @@ runs
 __pycache__
 .torch
 pytorch_DLNN/data
+.idea/
