@@ -1,3 +1,11 @@
 {
-    "editor.fontFamily": "'Consolas', 'Consolas', monospace"
+    "editor.fontFamily": "'Consolas', 'Consolas', monospace",
+
+    "python.analysis.openFilesOnly": true,
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.indexing": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.memory.keepLibraryAst": false
 }
