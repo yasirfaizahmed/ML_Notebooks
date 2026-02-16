@@ -8,3 +8,5 @@ pytorch_DLNN/data
 .idea/
 .datasets
 YOLOv8_local/
+venv
+BPE_tokenizer*
